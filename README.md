@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EBD55E,100:F5A218&height=300&section=header&text=🤠우모친%20깃허브🤠&fontSize=70&animation=fadeIn&fontAlignY=38&desc=별%20건%20없는데%20이쁘게%20만들고%20싶었음&descAlignY=51&descAlign=58"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EBD55E,100:F5A218&height=300&section=header&text=🤠우모친%20깃허브🤠&fontSize=70&animation=fadeIn&fontAlignY=38&desc=경력도%20포폴도%20없지만%20프로필%20만들기&descAlignY=51&descAlign=56"/>
 <div align="center">
   <div class="badge-container">              
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 뱃지">
