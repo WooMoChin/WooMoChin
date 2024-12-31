@@ -20,7 +20,7 @@
 <br>
 <h2>디자인 포트폴리오<h2>
 <br>
-<img src="https://github.com/user-attachments/assets/5f26443e-44b5-4360-98f0-985387f8171d" width="400"/>
+<img src="https://github.com/user-attachments/assets/b2525013-7e11-433b-95b4-e38466dcecdd" width="400"/>
 <img src="https://github.com/user-attachments/assets/b1719909-1222-41ed-89b9-cdf6d913cc29" width="400"/>
 <img src="https://github.com/user-attachments/assets/d1f6f574-06be-4538-86bd-fbeddea4bcda" width="400"/>
 <br>
